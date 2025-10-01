@@ -23,3 +23,10 @@ Este documento reúne links úteis e atualizados sobre resoluções, regulamento
 
 - [Manual de Recolhimento do SESCOOP (PDF)](http://www.brasilcooperativo.coop.br/Site/sescoop/Arquivos/projeto4_Baixa.pdf)
 - [Manual Técnico do Sistema Web de Apoio ao Planejamento Estratégico](https://manualzz.com/doc/5952592/sescoop-sistema-web-de-apoio-para-planejamento-estrat%C3%A9gico)
+
+---
+
+## 📄 Resoluções em PDF no Repositório
+
+- [Resolução 2056/2023 - Regulamento de Licitação](Resolução 2056-2023 - Regulamento de Licitações e Contratos.pdf)
+- [Resolução 2060/2023 - Consolidação da regulamentação](Resolução 2060-2023 - consolidação da regulamentação de normas gerais aplicáveis à compra de mate.pdf)
